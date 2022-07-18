@@ -1,1 +1,1 @@
-estudando git
+estudando git com conflitos
